@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="ButtonText">Show Alert with two buttons</string>
+</resources>
